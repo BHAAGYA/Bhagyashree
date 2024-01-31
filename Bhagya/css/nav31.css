@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+    padding-right: 40px;
+    align-items: center;
+
+}
+li{
+    color: white;
+    list-style-type: none;
+    margin: 10px;
+}
+ul{
+    display: flex;
+
+}
+
+button{
+    border-radius: 50px;
+}
+ 
