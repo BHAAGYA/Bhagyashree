@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-image:linear-gradient(rgba(40, 39, 39, 0.642),rgba(48, 46, 46, 0.741)) ,url('./Children\ running\ into\ school.jpg');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    padding: 30px;    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    margin: 10px;
+    padding-left: 700px;
+    
+    
+}
+ .div1{
+    @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+    font-family: 'Protest Guerrilla', sans-serif;
+    margin: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 40px;
+ }
+ li{
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+ }
+ 
+ button{
+    border-radius: 5px;
+    padding: 8px;
+    background-color: green;
+    color: white;
+    margin-left: 500px;
+    
+ }
+ .div3{
+    color: yellow;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+ }
+ .div4{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+ }
