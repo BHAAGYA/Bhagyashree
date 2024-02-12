@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav img{
+    height: 100px;
+    margin-top: -8px;
+    
+}
+.navlist ul{
+    list-style-type: none;
+}
+.navlist li{
+    margin-left: 15px;
+    color: black;
+    font-weight: bold;
+}
+.navlist{
+    margin-left: 512px;
+    margin-top: 17px;
+}
+section{
+    background-image:url(./90e8a546d883f14971b3c67b7c2419f5.jpg);
+    width: 1488px;
+    height: 400px;
+    background-size: cover;
+}
+.icon i{
+    margin-left: 20px;
+}
+.navlist a{
+    text-decoration: none;
+}
