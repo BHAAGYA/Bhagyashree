@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foot{
+    background-color: rgb(6, 6, 128);
+    height: 600px;
+}
+.foot img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.txt{
+    color: white;
+}
+
+.text1 li{
+    list-style-type: none;
+    color: white;
+}
+.text2 li{
+    list-style-type: none;
+    color: white;
+}
+.text3 li{
+    list-style-type: none;
+    color: white;
+}
+.text4 li{
+    list-style-type: none;
+    color: white;
+}
+.flextxt h1{
+  color: white;  
+}
+.text1{
+    margin-top: -350px;
+    margin-left: 300px;
+}
+.text1 li{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.text2{
+    margin-top: -354px;
+    margin-left: 70px;
+}
+.text2 li{
+    margin-top: 20px;
+}
+.text3{
+    margin-top: -305px;
+    margin-left: 80px;
+}
+.text3 li{
+    margin-top: 20px;
+}
+.text4{
+    margin-top: -344px;
+    margin-left: 100px;
+}
+.text4 li{
+    margin-top: 20px;
+}
+.policy p{
+    margin-left: 30px;
+    color: white;
+}
+.icon i{
+    font-size: 25px;
+    margin-top: 14px;
+    margin-left: 5px;
+}
+.icon{
+    margin-left: 450px; 
+    color: white;
+    margin-top: 14px;
+}
